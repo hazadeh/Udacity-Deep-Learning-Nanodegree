@@ -17,4 +17,4 @@ In this project, I built my own Recurrent Networks and Long Short-Term Memory Ne
 I Learned Generative Adversarial Networks with the model’s inventor, Ian Goodfellow. Then, apply what I've learned in this project and implement a Deep Convolutional GAN. This DCGAN is made of a pair of multi-layer neural networks that compete against each other until one learns to generate realistic images of faces.
 
 ## 5. Deploying a Model: [Deploying a Sentiment Analysis Model](5%20Deploying%20a%20Sentiment%20Analysis%20Model/Project)
-In this project, you trained and deployed my own PyTorch sentiment analysis model using Amazon SageMaker on AWS. This model was trained to do sentiment analysis on movie reviews (positive or negative reviews). I built the model, deployed it, and created a gateway for accessing this model from a website.
+In this project, I trained and deployed my own PyTorch sentiment analysis model using Amazon SageMaker on AWS. This model was trained to do sentiment analysis on movie reviews (positive or negative reviews). I built the model, deployed it, and created a gateway for accessing this model from a website.
