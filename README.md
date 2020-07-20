@@ -2,7 +2,7 @@
 
 The program is comprised of 5 courses and 5 projects. 
 
-## 1. Neural Networks: Predicting Bike-Sharing Patterns
+## [1. Neural Networks: Predicting Bike-Sharing Patterns] (https://github.com/hazadeh/Udacity-Deep-Learning-Nanodegree/tree/master/1%20Predicting%20Bike-Sharing%20Patterns)
 I Learned neural networks basics, and built my network with Python and NumPy. I've defined and trained a multi-layer neural network, and used it to analyze real data. In this project, I built and train neural networks from scratch to predict the number of bike-share users on a given day.
 
 ## 2. Convolutional Neural Networks: Dog Breed Classifier
