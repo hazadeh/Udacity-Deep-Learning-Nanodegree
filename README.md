@@ -1,5 +1,7 @@
 # Udacity-Deep-Learning-Nanodegree
 
+<img src="./cert.png" width="600" height="400" />
+
 The program is comprised of 5 courses and 5 projects. 
 
 ## 1. Neural Networks: [Predicting Bike-Sharing Patterns](1%20Predicting%20Bike-Sharing%20Patterns)
